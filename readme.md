@@ -38,5 +38,5 @@ Berdasarkan spesifikasi tugas dan hasil pengujian, sistem mampu mendeteksi *tamp
 2. **Pemutusan Rantai (Chain Breakage):** Perubahan pada suatu blok menyebabkan *hash*-nya tidak lagi cocok dengan `previous_hash` yang disimpan oleh blok setelahnya (Skenario 4)[cite: 2]. 
 3. Fungsi `is_valid()` melakukan iterasi menyeluruh untuk mendeteksi ketidaksesuaian matematis ini, sehingga metode validasi akan langsung mengembalikan nilai `False` apabila ditemukan manipulasi sekecil apa pun pada data maupun *pointer* rantainya[cite: 2].
 
-## lampiran gambar
+## lampiran gambar pengujian
 ![alt text](image.png)
