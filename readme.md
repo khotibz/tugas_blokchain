@@ -1,6 +1,6 @@
-> nama  : Ahmad Khotibul Umam
-> prodi : TEKNOLOGI INFORMASI
-> NIM   : 1002240062
+## nama  : Ahmad Khotibul Umam
+## prodi : TEKNOLOGI INFORMASI
+## NIM   : 1002240062
 
 
 ## Checklist Pengujian Proyek Blockchain
